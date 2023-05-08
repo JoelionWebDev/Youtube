@@ -52,7 +52,7 @@ const Navbar = () => {
         <div className="nav-center">
           <div className="navBrand">
             <NavLink to="/" style={navStyle}>
-              <img src={Img1} alt="image" width="120vw" />
+              <img src={Img1} alt="the pics" width="120vw" />
             </NavLink>
 
             <div className="nav-header">
