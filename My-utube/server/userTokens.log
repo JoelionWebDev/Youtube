@@ -557,3 +557,5 @@ DELETE /delete/645501073effa135140d7df0 200 177 - 398.974 ms
 DELETE /delete/645501073effa135140d7df0 500 52 - 525.347 ms
 GET /getdata 200 2 - 474.475 ms
 POST /register 201 67 - 329.505 ms
+POST /register 201 68 - 333.162 ms
+POST /register 201 69 - 365.358 ms

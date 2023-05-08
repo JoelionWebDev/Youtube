@@ -9,11 +9,7 @@ const Hero = () => {
           <h4 className="hero1">JoeTech Media</h4>
 
           <div className="button">
-            <a
-              target="_blank"
-              ref=""
-              href="https://www.youtube.com/@joetechstudio/"
-            >
+            <a target="_blank" href="https://www.youtube.com/@joetechstudio/">
               START LEARNING TODAY
             </a>
           </div>
